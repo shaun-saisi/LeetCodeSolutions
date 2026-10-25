@@ -10,6 +10,7 @@ This repository contains my attempted  leetcode soutions as a hobby
 ## String
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/shaun-saisi/LeetCodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shaun-saisi/LeetCodeSolutions/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Euclidean Algorithm
 |  |
@@ -28,4 +29,8 @@ This repository contains my attempted  leetcode soutions as a hobby
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/shaun-saisi/LeetCodeSolutions/tree/master/0605-can-place-flowers) |
+## Two Pointers
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/shaun-saisi/LeetCodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
