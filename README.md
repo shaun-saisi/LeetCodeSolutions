@@ -24,6 +24,7 @@ This repository contains my attempted  leetcode soutions as a hobby
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/shaun-saisi/LeetCodeSolutions/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/shaun-saisi/LeetCodeSolutions/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shaun-saisi/LeetCodeSolutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Greedy
@@ -35,4 +36,8 @@ This repository contains my attempted  leetcode soutions as a hobby
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/shaun-saisi/LeetCodeSolutions/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shaun-saisi/LeetCodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/shaun-saisi/LeetCodeSolutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
